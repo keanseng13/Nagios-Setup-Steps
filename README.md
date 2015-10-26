@@ -1,2 +1,2 @@
-# Nagios-Setup-Steps
-# Research on the opensource tool
+Nagios-Setup-Steps
+Research on the opensource tool
